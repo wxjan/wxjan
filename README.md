@@ -1,4 +1,4 @@
-<h2 align="left">Olá ˚˖𓍢ִ໋🌷͙֒✧˚.! Eu sou a Janaina e sou estudante de Análise e Desenvolvimento de Sistemas.<br><br>Tenho conhecimento básico em Ruby on Rails , Javascript, HTML e CSS.</h2>
+<h2 align="left">Olá ˚˖𓍢ִ໋🌷͙֒✧˚.! Eu sou a Janaina e sou estudante de Análise e Desenvolvimento de Sistemas.<br><br>Tenho conhecimento básico em Teste de Software, Cypress, Ruby on Rails , Javascript, MySQL, HTML e CSS.</h2>
 
 ###
 
